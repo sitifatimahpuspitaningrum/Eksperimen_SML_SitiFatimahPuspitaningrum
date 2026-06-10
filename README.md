@@ -1,0 +1,2 @@
+# Eksperimen_SML_SitiFatimahPuspitaningrum
+Eksperimen preprocessing stroke dataset
